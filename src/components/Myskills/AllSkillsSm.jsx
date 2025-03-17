@@ -44,6 +44,7 @@ const AllSkillsSm = () => {
     <div className="grid sm:grid-cols-2 md:grid-cols-4  gap-12 my-12">
       {skills.map((skill, index) => (
         <motion.div
+        
           variants={fadeIn("up", 0.2)}
           initial="hidden"
           whileInView="show"

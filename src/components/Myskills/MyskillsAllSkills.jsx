@@ -46,6 +46,7 @@ const MyskillsAllSkills = () => {
     <div className="flex items-center justify-center relative gap-2 max-w-[1200px] mx-auto">
       {skills.map((item, index) => (
         <motion.div
+         key={index}  
           variants={fadeIn("up", `0.${index}`)}
           initial="hidden"
           whileInView="show"
