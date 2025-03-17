@@ -1,0 +1,41 @@
+
+
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+@theme {
+ 
+  --color-brown: #53423e;
+  --color-light-brown: #645550;
+  --color-dark-brown: #2c2523;
+  --color-black: #1e1917;
+  --color-white: #f1e1d9;
+  --color-cyan: #15d1e9;
+  --color-light-cyan: #88e5f0;
+  --color-dark-cyan: #009fb3;
+  --color-orange: #fb9718;
+  --color-light-orange: #fac27b;
+  --color-dark-orange: #d28422;
+  --color-grey: #626965;
+  --color-light-grey: #978580;
+  --color-dark-grey: #3f4441;
+  --font-body: 'Josefin Sans', sans-serif;
+  --font-special: 'Roboto', sans-serif;
+  --breakpoint-sm: 350px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+ 
+}
+
+
+body{
+  @apply bg-dark-brown
+}
+@layer utilities {
+  .clip-hexagon {
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  }
+}
