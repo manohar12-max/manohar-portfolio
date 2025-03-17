@@ -7,7 +7,7 @@ import { fadeIn } from "../../../src/framerMotion/varient";
 const projects = [
   {
     name: "Airbnb",
-    img: "../../../public/air.png",
+    img: "/air.png",
     link: "https://airbnb-clone-12.vercel.app/",
     skills: "Next Js,TypeScript,MongoDb,TailwindCss",
     github: "https://github.com/manohar12-max/airclone/tree/main",
@@ -15,7 +15,7 @@ const projects = [
   },
   {
     name: "Qkart",
-    img: "../../../public/qkart.png",
+    img: "/qkart.png",
     link: "https://qkart-e-shop.netlify.app/",
     skills: "ReactJs,Material UI,MongoDb",
     github:
@@ -25,7 +25,7 @@ const projects = [
 
   {
     name: "Social-app",
-    img: "../../../public/social.png",
+    img: "/social.png",
     link: "https://social-app-clone-beta.vercel.app",
     skills: "Reactjs,Vite,Chakra UI,Firebase",
     github: "https://github.com/manohar12-max/instagram-clone/tree/main",
@@ -33,7 +33,7 @@ const projects = [
   },
   {
     name: "Realtor",
-    img: "../../../public/realtor.png",
+    img: "/realtor.png",
     link: "https://realtor-clone-react.vercel.app/",
     skills: "Reactjs,Vite,TailwindCss,Firebase",
     github: "https://github.com/manohar12-max/realtor-clone-react/tree/main",
@@ -41,7 +41,7 @@ const projects = [
   },
   {
     name: "CineHub",
-    img: "../../../public/cinehub.png",
+    img: "/cinehub.png",
     link: "https://cinehub-7chl.vercel.app/",
     skills: "NextJs,TypeScript,Tailwind Css,MongoDb",
     github: "https://github.com/manohar12-max/cinehub",
@@ -49,7 +49,7 @@ const projects = [
   },
   {
     name: "Xflix-Video-Share",
-    img: "../../../public/xflix.png",
+    img: "/xflix.png",
     link: "https://xflix.vercel.app/",
     skills: "ReactJs,Material UI,MongoDb",
     github: "https://github.com/manohar12-max/xflix",
@@ -58,7 +58,7 @@ const projects = [
 
   {
     name: "Next-Auth",
-    img: "../../../public/auth.png",
+    img: "/auth.png",
     link: "https://next-auth-02.vercel.app/",
     skills: "Next Js,TailwindCss,",
     github: "https://github.com/manohar12-max/next-auth/tree/main",
@@ -66,7 +66,7 @@ const projects = [
   },
   {
     name: "Video-Clone",
-    img: "../../../public/video.png",
+    img: "/video.png",
     link: "https://video-clone-khaki.vercel.app/",
     skills: "ReactJs,TailwindCSS,Rapid API",
     github: "https://github.com/manohar12-max/video-clone/tree/master",
@@ -75,7 +75,7 @@ const projects = [
 
   {
     name: "Gaming-Lists",
-    img: "../../../public/gaming.png",
+    img: "/gaming.png",
     link: "https://gaming-list.vercel.app/",
     skills: "ReactJs,TailwindCSS,Rapid API",
     github: "https://github.com/manohar12-max/gaming-list/tree/main",
@@ -83,7 +83,7 @@ const projects = [
   },
   {
     name: "#Hashtag-marketing",
-    img: "../../../public/hashtag.png",
+    img: "/hashtag.png",
     link: "https://hashtag-digital-marketing-page.vercel.app/",
     skills: "HTML,CSS",
     github:
@@ -92,7 +92,7 @@ const projects = [
   },
   {
     name: "Restaurant",
-    img: "../../../public/restoran.png",
+    img: "/restoran.png",
     link: "https://restoran-landing-page.vercel.app/",
     skills: "HTML,CSS",
     github: "https://github.com/manohar12-max/Restoran-landingpage",
