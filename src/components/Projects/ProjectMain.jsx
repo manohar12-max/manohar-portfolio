@@ -6,12 +6,20 @@ import { fadeIn } from "../../../src/framerMotion/varient";
 
 const projects = [
   {
+    name: "AI-mock-interview",
+    img: "/ai-mock.png",
+    link: "https://ai-mock-interview-gemmini.vercel.app/",
+    skills: "Next Js,Javascript,TailwindCss",
+    github: "https://github.com/manohar12-max/ai-mock-interview",
+    align: "right",
+  },
+  {
     name: "Airbnb",
     img: "/air.png",
     link: "https://airbnb-clone-12.vercel.app/",
     skills: "Next Js,TypeScript,MongoDb,TailwindCss",
     github: "https://github.com/manohar12-max/airclone/tree/main",
-    align: "right",
+    align: "left",
   },
   {
     name: "Qkart",
@@ -20,7 +28,7 @@ const projects = [
     skills: "ReactJs,Material UI,MongoDb",
     github:
       "https://github.com/manohar12-max/crio-2898manohar-ME_QKART_FRONTEND_V2",
-    align: "left",
+    align: "right",
   },
 
   {
@@ -29,7 +37,7 @@ const projects = [
     link: "https://social-app-clone-beta.vercel.app",
     skills: "Reactjs,Vite,Chakra UI,Firebase",
     github: "https://github.com/manohar12-max/instagram-clone/tree/main",
-    align: "right",
+    align: "left",
   },
   {
     name: "Realtor",
@@ -37,7 +45,7 @@ const projects = [
     link: "https://realtor-clone-react.vercel.app/",
     skills: "Reactjs,Vite,TailwindCss,Firebase",
     github: "https://github.com/manohar12-max/realtor-clone-react/tree/main",
-    align: "left",
+    align: "right",
   },
   {
     name: "CineHub",
@@ -45,7 +53,7 @@ const projects = [
     link: "https://cinehub-7chl.vercel.app/",
     skills: "NextJs,TypeScript,Tailwind Css,MongoDb",
     github: "https://github.com/manohar12-max/cinehub",
-    align: "right",
+    align: "left",
   },
   {
     name: "Xflix-Video-Share",
@@ -53,7 +61,7 @@ const projects = [
     link: "https://xflix.vercel.app/",
     skills: "ReactJs,Material UI,MongoDb",
     github: "https://github.com/manohar12-max/xflix",
-    align: "left",
+    align: "right",
   },
 
   {
@@ -62,7 +70,7 @@ const projects = [
     link: "https://next-auth-02.vercel.app/",
     skills: "Next Js,TailwindCss,",
     github: "https://github.com/manohar12-max/next-auth/tree/main",
-    align: "right",
+    align: "left",
   },
   {
     name: "Video-Clone",
@@ -70,7 +78,7 @@ const projects = [
     link: "https://video-clone-khaki.vercel.app/",
     skills: "ReactJs,TailwindCSS,Rapid API",
     github: "https://github.com/manohar12-max/video-clone/tree/master",
-    align: "left",
+    align: "right",
   },
 
   {
@@ -79,7 +87,7 @@ const projects = [
     link: "https://gaming-list.vercel.app/",
     skills: "ReactJs,TailwindCSS,Rapid API",
     github: "https://github.com/manohar12-max/gaming-list/tree/main",
-    align: "right",
+    align: "left",
   },
   {
     name: "#Hashtag-marketing",
@@ -88,7 +96,7 @@ const projects = [
     skills: "HTML,CSS",
     github:
       "https://github.com/manohar12-max/Hashtag-digital-marketing-page/blob/main/js/main.js",
-    align: "left",
+    align: "right",
   },
   {
     name: "Restaurant",
@@ -96,7 +104,7 @@ const projects = [
     link: "https://restoran-landing-page.vercel.app/",
     skills: "HTML,CSS",
     github: "https://github.com/manohar12-max/Restoran-landingpage",
-    align: "right",
+    align: "left",
   },
 ];
 

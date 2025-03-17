@@ -27,6 +27,7 @@ const SingleProject = ({ name, align, skills, link, image }) => {
             align == "left" ? "md:justify-self-end" : "md:justify-self-start"
           }`}
           href={link}
+          target="_blank"
         >
           View <BiSolidRightTopArrowCircle />{" "}
         </a>
