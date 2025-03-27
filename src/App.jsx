@@ -18,7 +18,7 @@ function App() {
       <AboutMain />
       <Myskillsmain />
       <SubSkills />
-      <ExperienceMain />
+      //<ExperienceMain />
       <ProjectMain />
       <ContactMain />
       <FooterMain />
